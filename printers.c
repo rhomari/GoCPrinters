@@ -5,8 +5,6 @@
 #include <stdlib.h>
 #include <winspool.h>
 
-#include <string.h>
-
 
 void listPrinters()
 {
